@@ -1,5 +1,8 @@
 _repo: Nelja-naista-ristilla-Jannitysromaani_55322
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leblanc, Maurice
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1358
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55322#Nelja-naista-ristilla-Jannitysromaani
 gutenberg_issued: '2017-08-10'
 gutenberg_type: Text
 identifiers:
